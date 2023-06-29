@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//3) Реализовать простой калькулятор
 public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
